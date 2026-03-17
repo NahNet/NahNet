@@ -15,6 +15,7 @@ Estou começando minha jornada como desenvolvedora, sempre buscando aprender nov
 ## 🛠️ Tecnologias
 
 - JavaScript
+- PHP
 - TypeScript
 - HTML & CSS
 - Git & GitHub
