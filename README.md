@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou Natyellen França
 
-<!--
-**NahNet/NahNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Desenvolvedora em início de carreira  
+💻 Apaixonada por tecnologia e aprendizado contínuo  
+📍 Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Estou começando minha jornada como desenvolvedora, sempre buscando aprender novas tecnologias e melhorar minhas habilidades na prática.
+
+---
+
+## 🛠️ Tecnologias
+
+- JavaScript
+- TypeScript
+- HTML & CSS
+- Git & GitHub
+
+## 📫 Contato
+
+- 📧 natyellenfranca8@email.com   
+
+---
+
+⭐️ Em constante evolução 🚀
