@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="assets/93a777af216ae409b7d0464d21b14c07.gif" width="100%" heigth="250">
-
-<br>
 
 <div align="center">
 
@@ -12,7 +8,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="60%" valign="top" align="left">
 
 ```bash
 $ ./about_naty
