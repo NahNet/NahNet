@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top" align="left">
+<td width="80%" valign="top" align="left">
 
 ```bash
 $ ./about_naty
