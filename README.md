@@ -69,13 +69,13 @@ $ ./about_naty
 <br/><br/>
 
 <a href="https://www.instagram.com/nty_btw?igsi=MW9zZWpqd282M2NrOA==">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=39FF14"/>
+  <img src="h48 Sem Título_20260824225749.png"/>
 </a>
 <a href="natyellen.franca.oficial@gmail.com">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=39FF14"/>
+  <img src="assets/48 Sem Título_20260824230950.png"/>
 </a>
 <a href="https://www.linkedin.com/in/natyellen-frança-530480417?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
+  <img src="48 Sem Título_20260824234823.png"/>
 </a>
 
 </div>
